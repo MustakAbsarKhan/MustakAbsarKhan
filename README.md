@@ -1,4 +1,4 @@
-![I am a Web Developer](https://)
+<!-- ![I am a Web Developer](https://) -->
 ### Hi there 👋, My name is Mustak
 #### I am a Web Developer
 
