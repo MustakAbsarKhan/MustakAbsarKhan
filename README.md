@@ -4,7 +4,7 @@
 
 I love what I do! I am passionate about Developing Websites and Web-Apps that make life easier. ✌️
 
-Skills: REACT / JS / HTML / CSS/BOOTSTRAP
+Skills: REACT / JS / HTML / CSS/ BOOTSTRAP
 
 - 🔭 I’m currently working on Web Development and Styling 
 - 🌱 I’m currently learning SASS 
