@@ -1,4 +1,4 @@
-![I am a Web Developer](https://cdn.pixabay.com/photo/2017/01/20/19/53/productivity-1995786_1280.jpg)
+![I am a Web Developer](https://)
 ### Hi there 👋, My name is Mustak
 #### I am a Web Developer
 
