@@ -4,10 +4,10 @@
 
 I love what I do! I am passionate about Developing Websites and Web-Apps that make life easier. ✌️
 
-Skills: REACT / JS / HTML / CSS/ BOOTSTRAP
+Skills: JS / HTML / CSS / SASS / BOOTSTRAP
 
 - 🔭 I’m currently working on Web Development and Styling 
-- 🌱 I’m currently learning SASS 
+- 🌱 I’m currently learning ReactJS 
 - 💬 Ask me about Life/Work 
 - 📫 How to reach me: Mail : mustak.absar.khan@gmail.com 
 - ⚡ Fun fact: JavaScript took just 10 days to develop 
