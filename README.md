@@ -30,21 +30,25 @@ Skills: JS / HTML / CSS / SASS / TAILWIND
 
 ![](https://i.imgur.com/waxVImv.png)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MustakAbsarKhan&show_icons=true&count_private=true) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MustakAbsarKhan&show_icons=true&count_private=true&theme=chartreuse-dark) 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MustakAbsarKhan)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MustakAbsarKhan&theme=chartreuse-dark)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MustakAbsarKhan)  
 
 ![](https://i.imgur.com/waxVImv.png)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MustakAbsarKhan)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MustakAbsarKhan&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Mohammad Mustak Absar Khan StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/12084859)](https://stackoverflow.com/users/12084859/mohammad-mustak-absar-khan)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MustakAbsarKhan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mustakabsar//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://web.facebook.com/mohammadmustakabsar.khan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/12084859/mohammad-mustak-absar-khan)
 
 ![](https://i.imgur.com/waxVImv.png)
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 ![GitHub metrics](https://metrics.lecoq.io/MustakAbsarKhan)   
 
