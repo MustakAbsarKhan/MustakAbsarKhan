@@ -24,9 +24,6 @@ Skills: JS / HTML / CSS / SASS / TAILWIND
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ![](https://i.imgur.com/waxVImv.png)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MustakAbsarKhan)](https://github.com/ryo-ma/github-profile-trophy)
