@@ -34,9 +34,6 @@ Skills: JS / HTML / CSS / SASS / TAILWIND
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MustakAbsarKhan&theme=chartreuse-dark)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MustakAbsarKhan)  
 
 ![](https://i.imgur.com/waxVImv.png)
