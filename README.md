@@ -4,11 +4,11 @@
 <img src="./header.png">
 </div>
 
-#### I am a Web Developer
+### I am a Web Developer & I love what I do!
 
-**I love what I do!** I am passionate about Developing Websites and Web-Apps that make lives easier. ✌️
+**I am passionate about Developing Websites and Web-Apps that make lives easier and more fascinating. 🥳**
 
-Skills: JS / HTML / CSS / SASS / TAILWIND
+#### Skills: JS / HTML / CSS / SASS / TAILWIND
 
 - 🔭 I’m currently working on Web Development and Styling 
 - 🌱 I’m currently learning ReactJS 
