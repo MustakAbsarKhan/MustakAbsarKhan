@@ -42,7 +42,7 @@ Skills: JS / HTML / CSS / SASS / TAILWIND
 
 ![](https://i.imgur.com/waxVImv.png)
 
-![Jokes Card](https://readme-jokes.vercel.app/api?&theme=algolia&qColor=%236BD600&aColor=%2300ADFE)
+![Jokes Card](https://readme-jokes.vercel.app/api?&theme=algolia&qColor=%236BD600&aColor=%2300ADFE)<br>
 ![GitHub metrics](https://metrics.lecoq.io/MustakAbsarKhan)   
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MustakAbsarKhan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mustakabsar//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://web.facebook.com/mohammadmustakabsar.khan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/12084859/mohammad-mustak-absar-khan)
