@@ -2,7 +2,7 @@
 ### Hi there 👋, My name is Mustak
 #### I am a Web Developer
 
-I love what I do! I am passionate about Developing Websites and Web-Apps that make life easier. ✌️
+**I love what I do!** I am passionate about Developing Websites and Web-Apps that make lives easier. ✌️
 
 Skills: JS / HTML / CSS / SASS / TAILWIND
 
@@ -12,20 +12,40 @@ Skills: JS / HTML / CSS / SASS / TAILWIND
 - 📫 How to reach me: Mail : mustak.absar.khan@gmail.com 
 - ⚡ Fun fact: JavaScript took just 10 days to develop 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MustakAbsarKhan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mustakabsar//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/mohammadmustakabsar.khan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/12084859/mohammad-mustak-absar-khan)  
+### Tech & Tools Preference 🛠
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+<p align="left">
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/600px-Tailwind_CSS_Logo.svg.png?20211001194333" alt="sass" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+</p>
+
+![](https://i.imgur.com/waxVImv.png)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MustakAbsarKhan)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MustakAbsarKhan&show_icons=true&count_private=true)  
+![](https://i.imgur.com/waxVImv.png)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MustakAbsarKhan)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MustakAbsarKhan&show_icons=true&count_private=true) 
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MustakAbsarKhan)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MustakAbsarKhan)  
 
-![GitHub metrics](https://metrics.lecoq.io/MustakAbsarKhan)  
+![](https://i.imgur.com/waxVImv.png)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MustakAbsarKhan)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MustakAbsarKhan)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Mohammad Mustak Absar Khan StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/12084859)](https://stackoverflow.com/users/12084859/mohammad-mustak-absar-khan)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MustakAbsarKhan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mustakabsar//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://web.facebook.com/mohammadmustakabsar.khan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/12084859/mohammad-mustak-absar-khan)
+
+![](https://i.imgur.com/waxVImv.png)
+
+![GitHub metrics](https://metrics.lecoq.io/MustakAbsarKhan)   
 
 ![Profile views](https://gpvc.arturio.dev/MustakAbsarKhan)  
