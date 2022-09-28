@@ -36,9 +36,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MustakAbsarKhan&show_icons=true&count_private=true&theme=chartreuse-dark) 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MustakAbsarKhan&theme=chartreuse-dark)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MustakAbsarKhan)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MustakAbsarKhan&theme=chartreuse-dark) 
 
 ![](https://i.imgur.com/waxVImv.png)
 
