@@ -10,18 +10,18 @@
 
 #### Skills: JS / HTML / CSS / SASS / TAILWIND
 
-- 🔭 I’m currently working on Web Development and Styling 
-- 🌱 I’m currently learning ReactJS 
-- 💬 Ask me about Life/Work 
-- 📫 How to reach me: Mail : mustak.absar.khan@gmail.com 
-- ⚡ Fun fact: JavaScript took just 10 days to develop 
+- 🔭 I’m currently working on Web Development and Styling
+- 🌱 I’m currently learning ReactJS
+- 💬 Ask me about Life/Work
+- 📫 How to reach me: Mail : mustak.absar.khan@gmail.com
+- ⚡ Fun fact: JavaScript took just 10 days to develop
 
 <div align="center">
 
 ### 🛠 Tech & Tools Preference 🛠
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/600px-Tailwind_CSS_Logo.svg.png?20211001194333" alt="sass" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -34,9 +34,9 @@
 
 ![](https://i.imgur.com/waxVImv.png)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MustakAbsarKhan&show_icons=true&count_private=true&theme=chartreuse-dark) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MustakAbsarKhan&show_icons=true&count_private=true&theme=chartreuse-dark)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MustakAbsarKhan&theme=chartreuse-dark) 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MustakAbsarKhan&theme=chartreuse-dark)
 
 ![](https://i.imgur.com/waxVImv.png)
 
@@ -45,14 +45,13 @@
 ![](https://i.imgur.com/waxVImv.png)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?&theme=algolia&qColor=%236BD600&aColor=%2300ADFE)<br>
-![GitHub metrics](https://metrics.lecoq.io/MustakAbsarKhan)   
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MustakAbsarKhan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mustakabsar//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://web.facebook.com/mohammadmustakabsar.khan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/12084859/mohammad-mustak-absar-khan)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MustakAbsarKhan) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mustakabsar//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://web.facebook.com/mohammadmustakabsar.khan) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/12084859/mohammad-mustak-absar-khan)
 <br>
 
 [![Mohammad Mustak Absar Khan StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/12084859)](https://stackoverflow.com/users/12084859/mohammad-mustak-absar-khan)
 
-![Profile views](https://gpvc.arturio.dev/MustakAbsarKhan)  
+![Profile views](https://gpvc.arturio.dev/MustakAbsarKhan)
 
 ![](https://i.imgur.com/waxVImv.png)
 
