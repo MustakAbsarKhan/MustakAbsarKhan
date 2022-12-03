@@ -50,8 +50,6 @@
 
 <br>
 
-[![Mohammad Mustak Absar Khan StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/12084859)](https://stackoverflow.com/users/12084859/mohammad-mustak-absar-khan)
-
 ![Profile views](https://gpvc.arturio.dev/MustakAbsarKhan)
 
 ![](https://i.imgur.com/waxVImv.png)
