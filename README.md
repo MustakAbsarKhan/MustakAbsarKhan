@@ -8,7 +8,7 @@
 
 **I am passionate about Developing Websites and Web-Apps that make lives easier and more fascinating. 🥳**
 
-#### Skills: JS / HTML / CSS / SASS / TAILWIND
+#### Skills: JS / HTML / CSS / SASS / TAILWIND / PYTHON
 
 - 🔭 I’m currently working on Web Development and Styling
 - 🌱 I’m currently learning ReactJS
