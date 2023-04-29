@@ -4,9 +4,9 @@
 <img src="./header.png">
 </div>
 
-### I am a Web Developer & I love what I do!
+### I am a Web and App Developer & I love what I do!
 
-**I am passionate about Developing Websites and Web-Apps that make lives easier and more fascinating. 🥳**
+**I turn coffee into code and dreams into digital reality 🚀☕️💻**
 
 #### Skills: JS / HTML / CSS / SASS / TAILWIND / PYTHON
 
