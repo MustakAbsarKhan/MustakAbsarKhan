@@ -10,8 +10,8 @@
 
 #### Skills: JS / HTML / CSS / SASS / TAILWIND / PYTHON
 
-- 🔭 I’m currently working on Web Development and Styling
-- 🌱 I’m currently learning ReactJS
+- 🔭 I’m currently working on Automation & Machine Learning
+- 🌱 I’m currently learning R Programming
 - 💬 Ask me about Life/Work
 - 📫 How to reach me: Mail : mustak.absar.khan@gmail.com
 - ⚡ Fun fact: JavaScript took just 10 days to develop
