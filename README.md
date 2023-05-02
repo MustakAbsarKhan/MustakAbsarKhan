@@ -6,7 +6,7 @@
 
 ## Finance and a Tech Wiz - Busy Building the next Big Thing in Fintech (💷 + 🚀) 
 
-### About Me: I am passionate about Automation, Data Exploration, Modern Web & App Development 👩🏻‍💻 🤖 🛰️ 💱
+### About Me: I am passionate about Automation, Data Exploration, Modern Web & App Development 👩🏻‍💻 🤖 🛰️
 
 #### Skills: JS / HTML / CSS / SASS / TAILWIND / PYTHON
 
