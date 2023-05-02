@@ -4,7 +4,7 @@
 <img src="./header.png">
 </div>
 
-### I am a Web Developer & I love what I do!
+### Finance and a Tech Wiz - Busy Building the next Big Thing in Fintech (💷 + 🚀)
 
 **I am passionate about Developing Websites and Web-Apps that make lives easier and more fascinating. 🥳**
 
