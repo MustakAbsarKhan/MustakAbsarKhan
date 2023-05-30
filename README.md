@@ -31,7 +31,7 @@
 
 ![](https://i.imgur.com/waxVImv.png)
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=MustakAbsarKhan)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MustakAbsarKhan&theme=flat)](https://github.com/MustakAbsarKhan/github-profile-trophy)
 
 ![](https://i.imgur.com/waxVImv.png)
 
