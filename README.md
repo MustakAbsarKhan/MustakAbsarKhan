@@ -1,36 +1,76 @@
-<!-- ![I am a Web Developer](https://) -->
-<!-- ### Hi there 👋, My name is Mustak -->
+<!-- ![I am a Developer](https://) -->
 <div align="center">
 <img src="./header.png">
 </div>
 
-## Finance and a Tech Wiz - Busy Building the next Big Thing in Fintech (💷 + 🚀) 
+## Python Developer 🇧🇩 | Automation & Web Scraping | Finance Graduate (QMUL) 💷🚀
 
-### About Me: I am passionate about Automation, Data Exploration, Modern Web & App Development 👩🏻‍💻 🤖
+---
 
-#### Skills: JS / HTML / CSS / SASS / TAILWIND / PYTHON / R
+### 👨‍💻 About Me
+I come from a Finance background with a strong interest in technology and problem-solving.  
+I previously explored modern web and app development, but currently I am **focused on Python**, building practical solutions in:
 
-- 🔭 I’m currently working on Automation & Machine Learning
-- 🌱 I’m currently learning R Programming
-- 💬 Ask me about Life/Work
-- 📫 How to reach me: Mail : mustak.absar.khan@gmail.com
-- ⚡ Fun fact: JavaScript took just 10 days to develop
+- Automation 🤖  
+- Web Scraping 🌐  
+- Data Exploration 📊  
+
+I believe in **learning by building real-world projects** and continuously improving step by step.
+
+---
+
+### 🧠 Current Focus
+- 🔭 Working on: **Automation & Data-driven Projects**
+- 🌱 Learning: **Advanced Python & Data Handling**
+- 💬 Ask me about: **Automation, Scraping, or getting started with Python**
+- 📫 Reach me: **mustak.absar.khan@gmail.com**
+
+---
+
+### ⚙️ Tech Journey
+
+**Current Stack (Active):**  
+👉 Python 🐍  
+
+**Previously Worked With:**  
+JS / HTML / CSS / SASS / Tailwind / R  
+
+*(Now primarily focused on mastering Python deeply rather than spreading across too many tools)*
+
+---
 
 <div align="center">
 
-### 🛠 Tech & Tools Preference 🛠
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/600px-Tailwind_CSS_Logo.svg.png?20211001194333" alt="sass" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+### 🛠 Tools & Technologies
+
+<a href="https://python.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.r-project.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.w3.org/html/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.w3schools.com/css/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+</a>
+
+---
 
 ![](https://i.imgur.com/waxVImv.png)
-  
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=MustakAbsarKhan&theme=flat)](https://github.com/MustakAbsarKhan/)
 
 ![](https://i.imgur.com/waxVImv.png)
@@ -45,11 +85,18 @@
 
 ![](https://i.imgur.com/waxVImv.png)
 
-![Jokes Card](https://readme-jokes.vercel.app/api?&theme=algolia&qColor=%236BD600&aColor=%2300ADFE)<br>
+![Jokes Card](https://readme-jokes.vercel.app/api?&theme=algolia&qColor=%236BD600&aColor=%2300ADFE)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MustakAbsarKhan) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mustakabsar//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://web.facebook.com/mohammadmustakabsar.khan) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AbsarMustak) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/12084859/mohammad-mustak-absar-khan)
+---
 
-<br>
+### 🌐 Connect with Me
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' height='40'>](https://github.com/MustakAbsarKhan)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' height='40'>](https://www.linkedin.com/in/mustakabsar/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' height='40'>](https://web.facebook.com/mohammadmustakabsar.khan)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' height='40'>](https://twitter.com/AbsarMustak)
+
+---
 
 ![Profile views](https://gpvc.arturio.dev/MustakAbsarKhan)
 
