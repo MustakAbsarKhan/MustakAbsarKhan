@@ -71,10 +71,6 @@ JS / HTML / CSS / SASS / Tailwind / R
 
 ![](https://i.imgur.com/waxVImv.png)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MustakAbsarKhan&theme=flat)](https://github.com/MustakAbsarKhan/)
-
-![](https://i.imgur.com/waxVImv.png)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MustakAbsarKhan&show_icons=true&count_private=true&theme=chartreuse-dark)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MustakAbsarKhan&theme=chartreuse-dark)
@@ -98,7 +94,7 @@ JS / HTML / CSS / SASS / Tailwind / R
 
 ---
 
-![Profile views](https://gpvc.arturio.dev/MustakAbsarKhan)
+![Profile views](https://komarev.com/ghpvc/?username=MustakAbsarKhan&color=brightgreen)
 
 ![](https://i.imgur.com/waxVImv.png)
 
